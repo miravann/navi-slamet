@@ -1,4 +1,3 @@
-// src/config/theme.ts
 export const COLORS = {
   bgPrimary: '#18191A',
   bgSecondary: '#242526',
