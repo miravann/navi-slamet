@@ -12,7 +12,6 @@ SLAMET-NAVI adalah aplikasi WebGIS Mobile yang dirancang untuk mendukung aktivit
 - Firebase:
   - Authentication
   - Realtime Database
-  - Firestore
 - React Native Maps
 - React Native Calendars
 - React Native Chart Kit
@@ -22,3 +21,6 @@ SLAMET-NAVI adalah aplikasi WebGIS Mobile yang dirancang untuk mendukung aktivit
 - Dataset jalur & waypoint (file GPX / kontribusi basecamp / komunitas)
 - Data cuaca dari OpenWeatherMap API
 - Data pengguna, agenda, dan aktivitas dari Firebase Realtime Database & Firestore
+
+## Tampilan Halaman
+Ada di folder asset/halaman
